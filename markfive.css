@@ -1,0 +1,59 @@
+.header{
+    background-color:rgb(38, 79, 112);
+    height: 90px;
+    border-radius: 0px 0px 0px 20px;
+    margin-left: 5%;
+    margin-right: 5%;
+}
+h4{
+    color: white;
+    padding-left:10px;
+    padding-top: 15px;
+}
+.nav{
+    float: right;
+    margin-right: 30px;
+    font-size: 17px;
+    color: white;
+    font-family: monospace;
+}
+.divFirst{
+    /* background-color: coral; */
+    text-align: left;
+    margin-left: 70%;
+    margin-top: 3%;
+    height: 70px;
+    
+
+}
+.fivediv{
+    height: 500px;
+    margin-top: 20px;
+    width: 600px;
+    text-align: center;
+    margin-left: 10%;
+    padding-top: 30px;
+    padding-bottom: 5px;
+    border-radius: 20px 0px 20px 0px;
+    margin-right: 25%;
+    /* background-color: rgb(228, 193, 240); */
+    font-family: "Montserrat, sans-serif";
+}
+
+.footer{
+    height: 120px;
+    margin-top: 50px;
+    background-color:rgb(38, 79, 112);
+    text-align: center;
+    margin-left: 5%;
+    margin-right: 5%;
+    padding-top: 28px;
+    border-radius: 0px 20px 0px 0px;
+}
+.background{
+    background-image: url('naaz.jpg');
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    opacity: 10;    
+
+}
