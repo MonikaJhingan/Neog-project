@@ -20,19 +20,22 @@
     padding-bottom: 90px;
 }
 .div{
-    height: 450px;
+    height: 550px;
     width: 300px;
     align-items: center;
     text-align: justify;
-    padding-right: 10%;
-    padding-left: 1%;
+    padding-right: 5%;
+    padding-left: 5%;
+    padding-top: 10px;
+    font-size: 20px;
     margin-left: 1%;
-    background-color: rgb(243, 148, 192);
+    background-color: rgb(240, 218, 228);
     margin-top: 120px;
     border-radius: 20px 20px 20px 20px;
 }
 .background{
-    background-image: url(/home/admin123/Desktop/neog/doggy.jpg);
+    /* background-image: url('home/admin123/Desktop/neog/doggy.jpg'); */
+    background-image: url(doggy.jpg);
     background-repeat: no-repeat;
     background-size: 100% 100%;
     opacity: 10; 

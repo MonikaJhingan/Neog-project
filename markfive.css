@@ -18,7 +18,7 @@ h4{
     font-family: monospace;
 }
 .divFirst{
-    /* background-color: coral; */
+    background-color: coral;
     text-align: left;
     margin-left: 70%;
     margin-top: 3%;
@@ -27,22 +27,19 @@ h4{
 
 }
 .fivediv{
-    height: 500px;
-    margin-top: 20px;
-    width: 600px;
-    text-align: center;
-    margin-left: 10%;
-    padding-top: 30px;
-    padding-bottom: 5px;
+    height: 250px;
+    margin-top: 1px;
+    width: 400px;
+    margin-left: 60%;
+    color: white;
     border-radius: 20px 0px 20px 0px;
-    margin-right: 25%;
     /* background-color: rgb(228, 193, 240); */
     font-family: "Montserrat, sans-serif";
 }
 
 .footer{
     height: 120px;
-    margin-top: 50px;
+    margin-top: 250px;
     background-color:rgb(38, 79, 112);
     text-align: center;
     margin-left: 5%;
@@ -51,7 +48,8 @@ h4{
     border-radius: 0px 20px 0px 0px;
 }
 .background{
-    background-image: url('naaz.jpg');
+    /* background-image: url('naaz.jpg'); */
+    background-image: url(lucknow.svg);
     background-repeat: no-repeat;
     background-size: 100% 100%;
     opacity: 10;    
