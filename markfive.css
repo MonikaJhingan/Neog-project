@@ -27,14 +27,16 @@ h4{
 
 }
 .fivediv{
-    height: 250px;
-    margin-top: 1px;
-    width: 400px;
-    margin-left: 60%;
-    color: rgb(255, 255, 255);
+    height: 298px;
+    /* margin-top: 50px;*/
+    width: 659px;
+    margin-left: 6%;
+    color: rgb(5, 17, 39);
+    font-size: 21px;
+    font-weight: bold;
     border-radius: 20px 0px 20px 0px;
     /* background-color: rgb(228, 193, 240); */
-    font-family: "Montserrat, sans-serif";
+    /*font-family: "Montserrat, sans-serif";*/
 }
 
 .footer{
